@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Bình luận cho HomePage	</title>
+	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://anhtinh0902.github.io/anhtinh0902</link>
+	<description> Anh Tính Wordpress</description>
+	<lastBuildDate>Fri, 10 Sep 2021 03:31:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>
+		Phản hồi cho QUYNHON CITY bởi FanPage		</title>
+		<link>https://https://anhtinh0902.github.io/anhtinh0902/quynhon-city/#comment-12</link>
+
+		<dc:creator><![CDATA[FanPage]]></dc:creator>
+		<pubDate>Fri, 10 Sep 2021 03:31:16 +0000</pubDate>
+		<guid isPermaLink="false">https://https://anhtinh0902.github.io/anhtinh0902/?p=26#comment-12</guid>
+
+					<description><![CDATA[spammmmmmmmmmmmmmmmm savasg]]></description>
+			<content:encoded><![CDATA[<p>spammmmmmmmmmmmmmmmm savasg</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho QUYNHON CITY bởi FanPage		</title>
+		<link>https://https://anhtinh0902.github.io/anhtinh0902/quynhon-city/#comment-11</link>
+
+		<dc:creator><![CDATA[FanPage]]></dc:creator>
+		<pubDate>Fri, 10 Sep 2021 03:30:09 +0000</pubDate>
+		<guid isPermaLink="false">https://https://anhtinh0902.github.io/anhtinh0902/?p=26#comment-11</guid>
+
+					<description><![CDATA[spammmmmmmmmmmmmmmmm]]></description>
+			<content:encoded><![CDATA[<p>spammmmmmmmmmmmmmmmm</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
